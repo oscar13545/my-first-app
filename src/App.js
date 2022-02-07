@@ -1,25 +1,45 @@
-import logo from './logo.svg';
+import React,{ Component } from 'react';
 import './App.css';
+import Precios from './Components/Precios/Precios';
+import ReactBootstrap from './Components/ReactBootstrap/ReactBootstrap';
+import Footer from './Components/Footer/Footer';
+import Video from './Components/Video/Video';
+import Galeria from './Components/Galeria/Galeria';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component{
+  
+  render () {
+    return (
+      <div className="App">
+
+    <Router>
+    <ReactBootstrap />
+      <br/>
+        <Routes>
+          
+          <Route exact path="/" element={<Video/>}/>
+          <Route exact path="/home" element={<Video/>}/>
+          <Route exact path="/paquetes" element={<Precios />}/>
+          <Route exact path="/galeria" element={<Galeria />}/>
+        </Routes>
+        <Footer />
+    </Router>
+    
+
+        
+        
+        
+
+        
+        
+        
+  
+
+        
+      </div>
+    )
+  }
 }
 
 export default App;
