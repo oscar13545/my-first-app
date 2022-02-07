@@ -22,8 +22,8 @@ const Footer = (props) => {
 <Col><h5 >Informacion</h5>
         
                     <li><a href="https://www.google.com/maps/dir/?api=1&destination=28.584703%2C-106.032236&fbclid=IwAR3YNE80RfhmvY5pxLkibCBBgNYKbrCQKh1poXZNjDhvTlZ5U4rLgbUMn7Q">Ubicacion</a></li>
-                    <li><a href="">614 239 4796</a></li>
-                    <li><a href="">614 131 8948</a></li></Col>
+                    <li><a href="#!">614 239 4796</a></li>
+                    <li><a href="#!">614 131 8948</a></li></Col>
 </Row>
 </Container>
             
