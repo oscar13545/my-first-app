@@ -49,7 +49,7 @@ const Galeria = (props) => {
   <Card style={{ width: '30rem' }}bg="dark" > 
     <Card.Body>
       <Card.Text>
-      <h2></h2>
+      <h2>Nuestra ubicacion</h2>
       </Card.Text>
     </Card.Body>
     <Card.Img variant="bottom" src={Gal4} height="250"/>
