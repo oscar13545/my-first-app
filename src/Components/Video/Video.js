@@ -53,7 +53,7 @@ const Video = (props) => {
           <Card.Text>
           Los mejores momentos los pasas en hacienda la Escondida. La diversión esta asegurada, contamos con el lugar adecuado para todo tipo de eventos, contando con las medidas de salud necesarias para cuidarnos
           </Card.Text>
-          <Button variant="warning">Mas informacion</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216141318948">Mas informacion</Button>{' '}
         </Card.Body>
       </Card>
       </div>
@@ -69,7 +69,7 @@ const Video = (props) => {
       Agenda el día de tu evento antes que te lo ganen.
 Te mostramos los servicios que ofrecemos para que celebres ese día tan especial que has esperado.
       </Card.Text>
-      <Button variant="light">Mas informacion</Button> {' '}
+      <Button variant="light" href='/galeria'>Mas informacion</Button> {' '}
     </Card.Body>
   </Card>
 
@@ -83,7 +83,7 @@ Te mostramos los servicios que ofrecemos para que celebres ese día tan especial
 Pregunta por nuestros diferentes paquetes.
 Celebra aquí el evento que tanto has estado esperando.{' '}
       </Card.Text>
-      <Button variant="light">Mas informacion</Button> {' '}
+      <Button variant="light" href='/paquetes'>Mas informacion</Button> {' '}
     </Card.Body>
     
   </Card>
@@ -95,7 +95,7 @@ Celebra aquí el evento que tanto has estado esperando.{' '}
       Los mejores momentos los pasas en hacienda la Escondida.
 La diversión esta asegurada, contamos con el lugar adecuado para todo tipo de eventos, contando con las medidas de salud necesarias para cuidarnos
       </Card.Text>
-      <Button variant="light">Mas informacion</Button> {' '}
+      <Button variant="light" href="https://wa.me/+5216141318948">Mas informacion</Button> {' '}
     </Card.Body>
     
   </Card>
