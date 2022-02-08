@@ -36,20 +36,20 @@ const Galeria = (props) => {
 
   <br />
   <CardGroup >
-  <Card style={{ width: '30rem' }} bg="dark">
+  <Card style={{ width: '30rem' }} >
     <Card.Img variant="top" src={Gal3}  height="250"/>
     <Card.Body>
       <Card.Text>
-      <h2>Nuestra ubicacion</h2>
+      <h2>Las instalaciones</h2>
       </Card.Text>
     </Card.Body>
   </Card>
   
   
-  <Card style={{ width: '30rem' }} > 
+  <Card style={{ width: '30rem' }}bg="dark" > 
     <Card.Body>
       <Card.Text>
-      <h2>Las instalaciones</h2>
+      <h2></h2>
       </Card.Text>
     </Card.Body>
     <Card.Img variant="bottom" src={Gal4} height="250"/>
