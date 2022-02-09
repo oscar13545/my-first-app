@@ -37,7 +37,7 @@ const Precios = (props) => {
         <Card.Body>
           <Card.Title>Paquete 1</Card.Title>
           <Card.Text>
-          100 Personas,
+          50 Personas,
           Basico
           </Card.Text>
           <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%201%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 4,700. 00</Button>{' '}
@@ -55,7 +55,7 @@ const Precios = (props) => {
         <Card.Body>
           <Card.Title>Paquete 3</Card.Title>
           <Card.Text>
-          100 Personas,
+          150 Personas,
           Basico
           </Card.Text>
           <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%203%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 8,500. 00</Button>{' '}
@@ -64,7 +64,7 @@ const Precios = (props) => {
         <Card.Body>
           <Card.Title>Paquete 4</Card.Title>
           <Card.Text>
-          100 Personas,
+          200 Personas,
           Basico
           </Card.Text>
           <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%204%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 10,900. 00</Button>{' '}
