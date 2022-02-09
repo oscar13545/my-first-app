@@ -40,7 +40,7 @@ const Precios = (props) => {
           50 Personas,
           Basico
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%201%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 4,700. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%201%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 4,700. 00</Button>{' '}
         </Card.Body>
 
         <Card.Body>
@@ -49,7 +49,7 @@ const Precios = (props) => {
           100 Personas,
           Basico
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%202%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 6,700. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%202%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 6,700. 00</Button>{' '}
         </Card.Body>
 
         <Card.Body>
@@ -58,7 +58,7 @@ const Precios = (props) => {
           150 Personas,
           Basico
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%203%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 8,500. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%203%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 8,500. 00</Button>{' '}
         </Card.Body>
 
         <Card.Body>
@@ -67,7 +67,7 @@ const Precios = (props) => {
           200 Personas,
           Basico
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%204%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 10,900. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%204%20de%20Piñatas,%20Baby%20Showers,%20Cumpleaños,%20ETC.">$ 10,900. 00</Button>{' '}
         </Card.Body>
           </TabContent>
           
@@ -87,7 +87,7 @@ const Precios = (props) => {
           2 Meseros,
           Fotografo (200 fotos digitales)
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%201%20de%20XV%20Años.">$ 11,900. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%201%20de%20XV%20Años.">$ 11,900. 00</Button>{' '}
         </Card.Body>
         <Card.Body>
           <Card.Title>Paquete 2</Card.Title>
@@ -99,7 +99,7 @@ const Precios = (props) => {
           2 Meseros,
           Fotografo (200 fotos digitales)
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%201%20con%20150%20personas%20de%20XV%20Años.">$ 14,900. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%201%20con%20150%20personas%20de%20XV%20Años.">$ 14,900. 00</Button>{' '}
         </Card.Body>
         <Card.Body>
           <Card.Title>Paquete 2</Card.Title>
@@ -111,7 +111,7 @@ const Precios = (props) => {
           2 Meseros,
           Fotografo (200 fotos digitales)
           </Card.Text>
-          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20intereza%20el%20paquete%201%20con%20200%20personas%20de%20XV%20Años.">$ 16,900. 00</Button>{' '}
+          <Button variant="warning" href="https://wa.me/+5216142856669?text=Me%20interesa%20el%20paquete%201%20con%20200%20personas%20de%20XV%20Años.">$ 16,900. 00</Button>{' '}
         </Card.Body>
       </Card>
           </TabContent>
