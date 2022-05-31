@@ -6,6 +6,7 @@ import NvImg4 from  './Iteam1.png';
 import Gal1 from  './Gallery1.jpg'; 
 import Gal3 from  './Gallery3.jpg'; 
 import Gal2 from  './Gallery2.png';
+import Logo from  './Logo.png'; 
 import { Card, CardGroup, Button, Carousel} from 'react-bootstrap';
 
 const Video = (props) => {
@@ -49,7 +50,14 @@ const Video = (props) => {
         <div class = "Information">
         <Card className="text-center" bg="dark">
         <Card.Body>
-          <Card.Title><h2>La escondida</h2></Card.Title>
+          <Card.Title><img
+        src={Logo}
+        width="250"
+        height="100"
+        className="d-inline-block align-top"
+        alt="React Bootstrap logo"
+      />
+      </Card.Title>
           <Card.Text>
           Los mejores momentos los pasas en hacienda la Escondida. La diversión esta asegurada, contamos con el lugar adecuado para todo tipo de eventos, contando con las medidas de salud necesarias para cuidarnos
           </Card.Text>
