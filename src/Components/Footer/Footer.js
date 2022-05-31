@@ -11,6 +11,7 @@ const Footer = (props) => {
     return (
         <Card bg="dark" text="light">
         <Card.Body>
+          <br/>
 
     
           <Container>
@@ -23,6 +24,7 @@ const Footer = (props) => {
         className="d-inline-block align-top"
         alt="React Bootstrap logo"
       />
+      
       <br/>
       <br/>
                 <p class="p1">EL MEJOR LUGAR PARA REALIZAR TU EVENTO</p></Col>
